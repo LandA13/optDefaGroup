@@ -174,6 +174,10 @@
       "targets": [],
       "value": ""
     }]
+  }, {
+    "id": "9f67088c-ca57-480f-bbb1-9a7475a26a7c",
+    "name": "2test",
+    "commands": []
   }],
   "suites": [{
     "id": "4bb04cc8-f6a4-433e-8ca1-9f259649ce7b",
